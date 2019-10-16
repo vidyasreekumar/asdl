@@ -1,9 +1,9 @@
 # asdl
 
 Project : lab
-  Apps  : logreg
-          newreval
-          results
+  Apps  : a)logreg
+          b)newreval
+          c)results
           
 Steps:
 1.Create a virtual environment
